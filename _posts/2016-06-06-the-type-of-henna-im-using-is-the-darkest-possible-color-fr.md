@@ -7,15 +7,15 @@ keywords: []
 description: >-
   The type of henna I'm using is the darkest possible color from natural henna,
   an organic Rajasthani Henna that has lasted 2
-datePublished: '2016-06-06T20:07:19.988Z'
-dateModified: '2016-06-06T20:06:54.224Z'
-title: ''
-author: []
-sourcePath: >-
-  _posts/2016-06-06-the-type-of-henna-im-using-is-the-darkest-possible-color-fr.md
+datePublished: '2016-06-06T20:06:45.826Z'
+dateModified: '2016-06-06T20:06:36.100Z'
 authors: []
 publisher: null
+title: ''
+author: []
 starred: false
+sourcePath: >-
+  _posts/2016-06-06-the-type-of-henna-im-using-is-the-darkest-possible-color-fr.md
 url: the-type-of-henna-im-using-is-the-darkest-possible-color-fr/index.html
 _type: Article
 
