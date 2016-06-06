@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ArlenesHennaArt]]></title>
         <description><![CDATA[ArlenesHennaArt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/arleneshennaart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 20:08:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 20:08:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/arleneshennaart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The type of henna I'm using is the darkest possible color from natural henna, an organic Rajasthani Henna that has lasted 2</p>]]></description>
-            <link>undefinedthe-type-of-henna-im-using-is-the-darkest-possible-color-fr/index.html</link>
+            <link>https://thegrid.ai/arleneshennaart/the-type-of-henna-im-using-is-the-darkest-possible-color-fr/index.html</link>
             <guid isPermaLink="false">cff9a0b3-57f6-4a44-8c53-49b9214e859d</guid>
-            <pubDate>Mon, 06 Jun 2016 20:07:19 GMT</pubDate>
+            <pubDate>Mon, 06 Jun 2016 20:06:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
